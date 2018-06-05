@@ -1,1 +1,13 @@
-![alt text](http:https://github.com/wahanawar/WahanaKoperasiFix/blob/master/img/BukuRekBaru.jpeg)
+# Login
+<p align="center">
+  <img src="https://github.com/wahanawar/WahanaKoperasiFix/blob/master/img/Login.jpeg"/>
+</p>
+# Home
+<p align="center">
+  <img src="https://github.com/wahanawar/WahanaKoperasiFix/blob/master/img/Home.jpeg"/>
+</p>
+
+# Transaksi
+<p align="center">
+  <img src="https://github.com/wahanawar/WahanaKoperasiFix/blob/master/img/Traksaksi.jpeg"/>
+</p>
